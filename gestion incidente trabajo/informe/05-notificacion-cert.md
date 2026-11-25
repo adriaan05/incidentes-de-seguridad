@@ -16,7 +16,7 @@ Principios: **mínimo necesario** (solo se informa a quien lo necesita), **un ú
 
 ```text
 ASUNTO: [CONFIDENCIAL] INC-2026-001 - Incidente de seguridad en curso
-Fecha y hora: 16/11/2026 11:40     Elaborado por: [tu nombre], Resp. Ciberseguridad
+Fecha y hora: 16/11/2026 11:40     Elaborado por: Adrián Fuente, Resp. Ciberseguridad
 RESUMEN: Se ha detectado la ejecución de un adjunto malicioso recibido por correo
 (falso mensaje de RR. HH.) en el equipo WS-ADM-07, con conexiones salientes a IP
 externas y accesos sospechosos a la carpeta de clientes.
