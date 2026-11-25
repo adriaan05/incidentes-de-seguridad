@@ -7,7 +7,7 @@
 - Agencia Española de Protección de Datos (AEPD): guía para la gestión y notificación de brechas de datos personales y sede electrónica. aepd.es
 - Guía Nacional de Notificación y Gestión de Ciberincidentes (Consejo Nacional de Ciberseguridad; INCIBE, CCN-CERT y otros).
 - Real Decreto 311/2022, Esquema Nacional de Seguridad (ENS).
-- Directiva (UE) 2022/2555 (NIS2): consultar el estado de su transposición en España.
+- Directiva (UE) 2022/2555 (NIS2). A fecha de noviembre de 2026, España no la ha transpuesto: la Ley de Coordinación y Gobernanza de la Ciberseguridad, cuyo anteproyecto aprobó el Consejo de Ministros el 14/01/2025, sigue sin publicarse en el BOE. Mientras tanto continúa vigente el Real Decreto-ley 12/2018, que transpuso la Directiva NIS original. Consultado en noviembre de 2026.
 
 ### Estándares y marcos técnicos
 
