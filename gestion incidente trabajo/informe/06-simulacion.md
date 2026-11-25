@@ -4,7 +4,7 @@
 
 | **Rol** | **Persona (ficticia)** | **Responsabilidad en la reunión** |
 |---|---|---|
-| Responsable de ciberseguridad (modera) | \[tu nombre\] | Dirige, prioriza y justifica las decisiones técnicas |
+| Responsable de ciberseguridad (modera) | Adrián Fuente | Dirige, prioriza y justifica las decisiones técnicas |
 | Analista forense / SOC | Laura Gómez | Evidencias, logs, alcance técnico |
 | Administrador de sistemas y redes | Pablo Ruiz | Aislamiento, bloqueos, restauración |
 | Delegado de protección de datos (DPO) | Marta Ortega | Brecha de datos y notificaciones |
