@@ -53,7 +53,7 @@ Seguridad TI
 | **Evidencias de exfiltración** | Volumen saliente, ficheros accedidos, confirmado / no confirmado |
 | **Riesgo para los afectados** | Valoración (bajo / medio / alto) y justificación |
 | **Decisiones requeridas** | Notificación a la AEPD, comunicación a afectados, denuncia, contratación de apoyo externo |
-| **Plazo** | Momento de conocimiento: \[fecha y hora\]. Límite de 72 h: \[fecha y hora\] |
+| **Plazo** | Momento de conocimiento: 16/11/2026 12:40. Límite de 72 h: 19/11/2026 12:40 |
 
 ## 5.2 Notificación de una brecha de datos personales a la AEPD
 
