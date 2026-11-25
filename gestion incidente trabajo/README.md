@@ -4,7 +4,7 @@ Trabajo práctico individual: gestión de un incidente de phishing con ejecució
 
 | | |
 |---|---|
-| **Alumno/a** | \[Adrian Fuente\] |
+| **Alumno/a** | \Adrian Fuente\ |
 | **Módulo / asignatura** | \[Incidentes de ciberseguridad\] |
 | **Fecha de entrega** | \[30/11/2026\] |
 
