@@ -5,8 +5,8 @@ Trabajo práctico individual: gestión de un incidente de phishing con ejecució
 | | |
 |---|---|
 | **Alumno/a** | Adrian Fuente |
-| **Módulo / asignatura** | \[Incidentes de ciberseguridad\] |
-| **Fecha de entrega** | \[30/11/2026\] |
+| **Módulo / asignatura** | Incidentes de ciberseguridad |
+| **Fecha de entrega** | 3/12/2026 |
 
 > **Aviso.** Todas las pruebas prácticas se realizaron exclusivamente en máquinas virtuales propias y entornos autorizados. La empresa, las personas, los dominios `.example` y las IP de documentación del caso son ficticios. No se usó malware real (solo el fichero de prueba EICAR y tráfico inocuo).
 
