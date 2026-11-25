@@ -206,7 +206,7 @@ La cadena de custodia es el registro cronológico e ininterrumpido de quién ha 
 | **ID de evidencia** | EV-001 |
 | **Descripción** | Imagen forense del disco SSD 512 GB del equipo WS-ADM-07 (S/N: \[número de serie\]) |
 | **Incidente** | INC-2026-001 |
-| **Obtenida por / fecha y hora** | \[tu nombre\], 16/11/2026 13:05 (hora de Madrid, equipo sincronizado por NTP) |
+| **Obtenida por / fecha y hora** | Adrián Fuente, 16/11/2026 13:05 (hora de Madrid, equipo sincronizado por NTP) |
 | **Lugar de recogida** | Puesto de trabajo de Administración, planta 2 |
 | **Método** | FTK Imager con bloqueo de escritura; formato E01 |
 | **Hash SHA-256 de origen / de la copia** | SHA-256 del origen y de la copia idénticos (en la práctica con dd: 9cd9734ba17a25a882847df99cc473abd2d9d3c197025cc33357ce63d93e762a, captura 3.10) |
