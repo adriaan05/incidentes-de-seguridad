@@ -204,7 +204,7 @@ La cadena de custodia es el registro cronológico e ininterrumpido de quién ha 
 | **Campo** | **Valor** |
 |---|---|
 | **ID de evidencia** | EV-001 |
-| **Descripción** | Imagen forense del disco SSD 512 GB del equipo WS-ADM-07 (S/N: \[ de serie\]) |
+| **Descripción** | Imagen forense del disco SSD 512 GB del equipo WS-ADM-07  |
 | **Incidente** | INC-2026-001 |
 | **Obtenida por / fecha y hora** | Adrián Fuente, 16/11/2026 13:05 (hora de Madrid, equipo sincronizado por NTP) |
 | **Lugar de recogida** | Puesto de trabajo de Administración, planta 2 |
@@ -212,9 +212,8 @@ La cadena de custodia es el registro cronológico e ininterrumpido de quién ha 
 | **Hash SHA-256 de origen / de la copia** | SHA-256 del origen y de la copia idénticos (en la práctica con dd: 9cd9734ba17a25a882847df99cc473abd2d9d3c197025cc33357ce63d93e762a, captura 3.10) |
 | **Almacenamiento** | Copia de trabajo en repositorio forense cifrado y de solo lectura; original en caja precintada nº 1, armario de seguridad |
 
-| **Fecha y hora** | **Entrega de** | **Recibe** | **Motivo** | **Estado / hash verificado** | **Firmas** |
+| **Fecha y hora** | **Entrega de** | **Recibe** | **Motivo** | **Estado / hash verificado** |
 |---|---|---|---|---|---|
-| 16/11 13:05 | Responsable TI | Resp. ciberseguridad | Adquisición de la evidencia | Original intacto; hash calculado | \[firma\] / \[firma\] |
-| 16/11 15:30 | Resp. ciberseguridad | Analista forense | Análisis de la copia | Hash verificado: coincide | \[firma\] / \[firma\] |
-| 17/11 09:00 | Analista forense | Caja de seguridad | Custodia tras el análisis | Precintada, nº de precinto 0001 | \[firma\] / \[firma\] |
-| \[fecha\] | \[nombre\] | \[nombre\] | \[motivo: p. ej., entrega a la autoridad\] | \[estado\] | \[firma\] / \[firma\] |
+| 16/11 13:05 | Responsable TI | Resp. ciberseguridad | Adquisición de la evidencia | Original intacto; hash calculado |
+| 16/11 15:30 | Resp. ciberseguridad | Analista forense | Análisis de la copia | Hash verificado: coincide |
+| 17/11 09:00 | Analista forense | Caja de seguridad | Custodia tras el análisis | Precintada, nº de precinto 0001 |
