@@ -172,7 +172,7 @@ OSINT (inteligencia de fuentes abiertas) permite entender el origen y la reputac
 | **ID de incidente** | INC-2026-001 |
 | **Fecha y hora de detección** | 16/11/2026, 10:50 (alerta de antivirus). Escalado a ciberseguridad a las 11:40. |
 | **Detectado por** | Departamento de informática (alerta de antivirus y revisión de firewall) |
-| **Responsable del incidente** | Responsable de ciberseguridad (\[tu nombre\]) |
+| **Responsable del incidente** | Responsable de ciberseguridad (Adrián Fuente) |
 | **Tipo / categoría** | Código dañino con origen en phishing; posible fuga de información |
 | **Gravedad / prioridad** | Alta, potencialmente crítica / P1 |
 | **Estado** | Abierto - en contención |
